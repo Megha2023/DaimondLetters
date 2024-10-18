@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiamondKata", "DiamondKata\DiamondKata.csproj", "{1CB11E09-FCFD-491E-907F-DFF8397F5ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiamondKata.Tests", "DiamondKata.Tests\DiamondKata.Tests.csproj", "{0E99C85C-8343-43C1-902B-49BA96F26586}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E7AA021C-91BC-4083-B2F1-DC8E6FD09B2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{C42B7602-6BB3-4FDC-9AB6-C9125A1E660A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB11E09-FCFD-491E-907F-DFF8397F5ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB11E09-FCFD-491E-907F-DFF8397F5ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB11E09-FCFD-491E-907F-DFF8397F5ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB11E09-FCFD-491E-907F-DFF8397F5ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E99C85C-8343-43C1-902B-49BA96F26586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E99C85C-8343-43C1-902B-49BA96F26586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E99C85C-8343-43C1-902B-49BA96F26586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E99C85C-8343-43C1-902B-49BA96F26586}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {121FB7F8-0317-4ADD-9C47-D03B155626E1}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1CB11E09-FCFD-491E-907F-DFF8397F5ACD} = {E7AA021C-91BC-4083-B2F1-DC8E6FD09B2B}
+		{0E99C85C-8343-43C1-902B-49BA96F26586} = {C42B7602-6BB3-4FDC-9AB6-C9125A1E660A}
+	EndGlobalSection
+EndGlobal
